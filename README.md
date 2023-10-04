@@ -1,5 +1,5 @@
 # SQL_Projects
- Postgresql ' de SQL ile yapılan tüm case, analizler ve çıkarılan sonuçların yer aldığı repo
+ Postgresql ' de SQL ile yapılan tüm case, analizler ve çıkarılan sonuçların yer aldığı repo, çalışmalar yapıldıkça güncellenecektir.
 
 01 - İlk olarak, travel isimli bir veritabanı oluşturduk, içerisine booking, payment ve passenger isimli 3 tablo ekledik ve elimizdeki csv uzantılı verileri veritabanımıza aktardık.
 
